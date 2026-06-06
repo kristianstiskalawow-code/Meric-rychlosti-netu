@@ -1,0 +1,6 @@
+{
+  "name": "Měřič rychlosti internetu",
+  "description": "Rychlý a spolehlivý test rychlosti stahování, odesílání, odezvy (ping) a monitorování síly signálu s historií měření.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

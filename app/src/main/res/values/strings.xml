@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Měřič rychlosti internetu</string>
+    <string name="title_signal">Síla signálu</string>
+    <string name="title_history">Historie měření</string>
+    <string name="text_download">Stahování</string>
+    <string name="text_upload">Odesílání</string>
+    <string name="text_ping">Ping</string>
+    <string name="text_jitter">Jitter</string>
+    <string name="btn_start">SPUSTIT TEST</string>
+    <string name="btn_testing">MĚŘÍM...</string>
+    <string name="status_idle">Připraveno k měření</string>
+    <string name="status_pinging">Měřím odezvu (Ping)...</string>
+    <string name="status_downloading">Stahuji zkušební data...</string>
+    <string name="status_uploading">Odesílám zkušební data...</string>
+    <string name="status_completed">Měření dokončeno</string>
+    <string name="status_failed">Chyba měření</string>
+    <string name="tab_speed">Rychlost</string>
+    <string name="tab_signal">Signál</string>
+    <string name="tab_history">Historie</string>
+    <string name="net_wifi">Wi-Fi síť</string>
+    <string name="net_mobile">Mobilní data</string>
+    <string name="net_none">Odpojeno</string>
+    <string name="clear_history">Vymazat historii</string>
+    <string name="empty_history">Žádná předchozí měření</string>
+    <string name="permission_rationale">Pro přesné měření síly signálu a zjištění názvu Wi-Fi sítě vyžaduje aplikace přístup k poloze.</string>
+    <string name="grant_permission">Povolit přístup</string>
+</resources>
