@@ -2,9 +2,10 @@ name: Android CI
 
 on:
   push:
-    branches: [ "hlavní" ]
+    branches: [ "main", "master", "hlavní" ]
   pull_request:
-    branches: [ "hlavní" ]
+    branches: [ "main", "master", "hlavní" ]
+  workflow_dispatch: # Tohle nám přidá to spouštěcí tlačítko!
 
 jobs:
   build:
